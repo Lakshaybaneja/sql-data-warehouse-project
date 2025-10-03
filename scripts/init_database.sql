@@ -22,9 +22,3 @@ CREATE DATABASE datawarehouse;
 
 USE DataWarehouse;
 
--- Create Schemas
-CREATE SCHEMA bronze;
-
-CREATE SCHEMA silver;
-
-CREATE SCHEMA gold;
