@@ -32,5 +32,5 @@ DROP DATABASE IF EXISTS dwh_gold;
 CREATE DATABASE dwh_gold;
 
 -- Use database 'dwh_bronze'
-USE DATABASE dwh_bronze;
+USE dwh_bronze;
 
