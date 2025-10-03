@@ -1,24 +1,36 @@
 /*
 =============================================================
-Create Database and Schemas
+Create Database
 =============================================================
 Script Purpose:
-    This script creates a new database named 'datawarehouse' after checking if it already exists. 
-    If the database exists, it is dropped and recreated. Additionally, the script sets up three schemas 
-    within the database: 'bronze', 'silver', and 'gold'.
+    This script creates 3 different database named 'dwh_bronze','dwh_silver','dwh_gold' after checking if it already exists. 
+    If the database exists, it is dropped and recreated.
 	
 WARNING:
-    Running this script will drop the entire 'datawarehouse' database if it exists. 
+    Running this script will drop all 3 database if it exists. 
     All data in the database will be permanently deleted. Proceed with caution 
     and ensure you have proper backups before running this script.
 */
 
 
--- Drop and recreate the 'datawarehouse' database
-DROP DATABASE IF EXISTS 'datawarehouse'
+-- Drop and recreate the 'dwh_bronze' database
+DROP DATABASE IF EXISTS 'dwh_bronze';
 
--- Create the 'datawarehouse' database
-CREATE DATABASE datawarehouse;
+-- Create the 'dwh_bronze' database
+CREATE DATABASE dwh_bronze;
 
-USE DataWarehouse;
+-- Drop and recreate the 'dwh_silver' database
+DROP DATABASE IF EXISTS 'dwh_silver';
+
+-- Create the 'dwh_silver' database
+CREATE DATABASE dwh_silver;
+
+-- Drop and recreate the 'dwh_gold' database
+DROP DATABASE IF EXISTS 'dwh_gold';
+
+-- Create the 'dwh_gold' database
+CREATE DATABASE dwh_gold;
+
+-- Use database 'dwh_bronze'
+USE DATABASE dwh_bronze;
 
