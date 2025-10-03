@@ -14,19 +14,19 @@ WARNING:
 
 
 -- Drop and recreate the 'dwh_bronze' database
-DROP DATABASE IF EXISTS 'dwh_bronze';
+DROP DATABASE IF EXISTS dwh_bronze;
 
 -- Create the 'dwh_bronze' database
 CREATE DATABASE dwh_bronze;
 
 -- Drop and recreate the 'dwh_silver' database
-DROP DATABASE IF EXISTS 'dwh_silver';
+DROP DATABASE IF EXISTS dwh_silver;
 
 -- Create the 'dwh_silver' database
 CREATE DATABASE dwh_silver;
 
 -- Drop and recreate the 'dwh_gold' database
-DROP DATABASE IF EXISTS 'dwh_gold';
+DROP DATABASE IF EXISTS dwh_gold;
 
 -- Create the 'dwh_gold' database
 CREATE DATABASE dwh_gold;
