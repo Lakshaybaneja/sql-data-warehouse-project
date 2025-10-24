@@ -55,5 +55,34 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ## 🌟 About Me
 
-Hi there! I'm **Lakshay Baneja**.
+## 👋 Hi, I'm Lakshay Baneja  
 
+I'm an aspiring **Data Analyst** passionate about exploring data and uncovering meaningful insights.  
+Currently, I’m building my foundation in **SQL**, **Power BI**, **Excel**, and **Python** while working on projects that strengthen my analytical and visualization skills.  
+
+---
+
+### 💼 About Me  
+- 🌱 Learning **data analysis**, **visualization**, and **reporting**  
+- 🧠 Interested in **business intelligence** and **data storytelling**  
+- 🎯 Goal: To apply analytical skills to real-world business problems  
+- 📍 Based in India  
+
+---
+
+### 🛠️ Tech Stack  
+**Languages & Tools:**  
+`SQL` • `Python` • `Excel` • `Power BI`
+
+---
+
+### 🤝 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lakshay-baneja-96853931b/)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshaybaneja78@gmail.com)
+
+---
+
+### ✨ Fun Fact  
+I believe that every dataset has a story — you just need the right tools to tell it.
+
+    
